@@ -1,0 +1,4 @@
+EntityframeWorkCore
+EntityframeWorkCore.SqlServe
+
+Scaffold-DbContext "Data source =.\SqlExpress;Initial Catalog=SENAI_SPMEDICALGROUP_MANHA; User id=sa;pwd=132" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Domains -ContextDir Contexts -Context SpMedicalGroupContext
