@@ -26,3 +26,9 @@ C:\Users\50473694808\Desktop\treinamento\entrega\CODIGO\Senai.LanHouse.Web.Razor
 C:\Users\50473694808\Desktop\treinamento\entrega\CODIGO\Senai.LanHouse.Web.Razor\Senai.LanHouse.Web.Razor\obj\Debug\netcoreapp2.1\Senai.LanHouse.Web.Razor.dll
 C:\Users\50473694808\Desktop\treinamento\entrega\CODIGO\Senai.LanHouse.Web.Razor\Senai.LanHouse.Web.Razor\obj\Debug\netcoreapp2.1\Senai.LanHouse.Web.Razor.pdb
 C:\Users\50473694808\Desktop\treinamento\entrega\CODIGO\Senai.LanHouse.Web.Razor\Senai.LanHouse.Web.Razor\obj\Debug\netcoreapp2.1\Senai.LanHouse.Web.Razor.csproj.CopyComplete
+C:\Users\50473694808\Desktop\treinamento\entrega\CODIGO\Senai.LanHouse.Web.Razor\Senai.LanHouse.Web.Razor\obj\Debug\netcoreapp2.1\Razor\Views\RegistrosDefeitos\Create.g.cshtml.cs
+C:\Users\50473694808\Desktop\treinamento\entrega\CODIGO\Senai.LanHouse.Web.Razor\Senai.LanHouse.Web.Razor\obj\Debug\netcoreapp2.1\Razor\Views\RegistrosDefeitos\Delete.g.cshtml.cs
+C:\Users\50473694808\Desktop\treinamento\entrega\CODIGO\Senai.LanHouse.Web.Razor\Senai.LanHouse.Web.Razor\obj\Debug\netcoreapp2.1\Razor\Views\RegistrosDefeitos\Details.g.cshtml.cs
+C:\Users\50473694808\Desktop\treinamento\entrega\CODIGO\Senai.LanHouse.Web.Razor\Senai.LanHouse.Web.Razor\obj\Debug\netcoreapp2.1\Razor\Views\RegistrosDefeitos\Edit.g.cshtml.cs
+C:\Users\50473694808\Desktop\treinamento\entrega\CODIGO\Senai.LanHouse.Web.Razor\Senai.LanHouse.Web.Razor\obj\Debug\netcoreapp2.1\Razor\Views\RegistrosDefeitos\Index.g.cshtml.cs
+C:\Users\50473694808\Desktop\treinamento\entrega\CODIGO\Senai.LanHouse.Web.Razor\Senai.LanHouse.Web.Razor\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Login.g.cshtml.cs

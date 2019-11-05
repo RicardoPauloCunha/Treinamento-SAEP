@@ -1,8 +1,9 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Senai.LanHouse.Web.Razor.Dominios;
 
-namespace Senai.LanHouse.Web.Razor.Dominios
+namespace Senai.LanHouse.Web.Razor.Contextos
 {
     public partial class LanHouseContext : DbContext
     {
@@ -22,11 +23,7 @@ namespace Senai.LanHouse.Web.Razor.Dominios
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Data source =.\\SQLSERVER; Initial Catalog=Lan_House; User id=sa;pwd=132");
-            }
+           optionsBuilder.UseSqlServer("Data source =.\\SQLSERVER; Initial Catalog=Lan_House; User id=sa;pwd=132");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
